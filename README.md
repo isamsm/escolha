@@ -1,4 +1,4 @@
-﻿# Escolha <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Nazar%20Amulet.png" alt="Nazar Amulet" width="25" height="25" />
+﻿# Escolha <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Hamsa.png" alt="Hamsa" width="25" height="25" />
 
 ## Sobre
 
